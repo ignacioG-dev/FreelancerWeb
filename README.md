@@ -7,7 +7,7 @@ Este repositorio contiene el código fuente y los archivos relacionados con mi p
 > 
 ## 🌐 [Visitar el Sitio Web](https://freelancer-gautoignacio.netlify.app/)
 
-Explore el sitio web de prueba en [https://freelancer-gautoignacio.netlify.app/](https://freelancer-gautoignacio.netlify.app/) 
+Explore el sitio web de prueba [aquí](https://freelancer-gautoignacio.netlify.app/) 
 
 
 ## 📂 Estructura del Proyecto
