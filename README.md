@@ -4,6 +4,10 @@ Este repositorio contiene el código fuente y los archivos relacionados con mi p
 
 > [!NOTE]\
 > El Sitio Web es un proyecto diseñado para demostrar y probar diversas funcionalidades web. No representa un sitio web en producción, sino más bien un entorno de práctica.
+> 
+## 🌐 [Visitar el Sitio Web](https://freelancer-gautoignacio.netlify.app/)
+
+Explore el sitio web de prueba en [https://freelancer-gautoignacio.netlify.app/](https://freelancer-gautoignacio.netlify.app/) 
 
 
 ## 📂 Estructura del Proyecto
